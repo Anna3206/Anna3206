@@ -1,4 +1,6 @@
-## Hi there 👋
+## Oi! Meu nome é Anna Clara 😊
+## Sou estudante de graduação em Engenharia da Computação na PUC-Rio 💻
+## Tenho experiência em Python, C, HTML e CSS ✨
 
 <!--
 **Anna3206/Anna3206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
