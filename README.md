@@ -1,4 +1,4 @@
-<div align="center"> ## Oi! Meu nome é Anna Clara 😊 </div>
+## <div align="center"> Oi! Meu nome é Anna Clara 😊 </div>
 Sou estudante de graduação em Engenharia da Computação na PUC-Rio 💻 Tenho experiência em Python, C, HTML e CSS ✨
 
 <!--
